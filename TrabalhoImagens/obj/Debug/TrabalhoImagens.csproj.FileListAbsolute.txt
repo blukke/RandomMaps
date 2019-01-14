@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\bin\Debug\TrabalhoImagens.exe.config
+c:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\bin\Debug\TrabalhoImagens.exe
+c:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\bin\Debug\TrabalhoImagens.pdb
+c:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\obj\Debug\TrabalhoImagens.Form1.resources
+c:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\obj\Debug\TrabalhoImagens.Properties.Resources.resources
+c:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\obj\Debug\TrabalhoImagens.csproj.GenerateResource.Cache
+c:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\obj\Debug\TrabalhoImagens.exe
+c:\Users\lucas\Documents\Visual Studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\obj\Debug\TrabalhoImagens.pdb
+C:\Users\lucas\documents\visual studio 2015\Projects\TrabalhoImagens\TrabalhoImagens\obj\Debug\TrabalhoImagens.csprojResolveAssemblyReference.cache
